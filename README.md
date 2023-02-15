@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renanrteixeira
-- 👀 I’m interested in C#.Net, PHP, Delphi, Java
-- 🌱 I’m currently learning C#.Net, React Native
+- 👀 I’m interested in C#.Net, PHP, Delphi, Java, node.js, javascript
+- 🌱 I’m currently learning C#.Net, React Native, node.js, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
