@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Renan Teixeira.
 - 👀 I’m interested in C#.Net, PHP, Delphi, Java, node.js, javascript
-- 🌱 I’m currently learning C#.Net, React Native, node.js, javascript
+- 🌱 I’m currently learning C#.Net, React Native, node.js, javascript, JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
