@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/renanrteixeira/)](https://www.linkedin.com/in/renanrteixeira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:renan.r.teixeira@gmail.com)](mailto:renan.r.teixeira@gmail.com)
 
 <!---
 renanrteixeira/renanrteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
