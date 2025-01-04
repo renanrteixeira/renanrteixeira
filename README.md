@@ -10,5 +10,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrteixeira&layout=compact&theme=dracula)
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrteixeira&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
