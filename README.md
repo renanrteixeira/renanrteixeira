@@ -12,4 +12,4 @@ renanrteixeira/renanrteixeira is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrteixeira&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrteixeira&layout=compact&theme=dracula&langs_count=8)
